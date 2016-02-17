@@ -1,0 +1,28 @@
+name: The Colours
+favicon: null
+layout_spectrum: 0.1796083466615528
+typography_spectrum: 0.8432251578196883
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.134988744975999
+  lightness: 0.7109146760776639
+  saturation: 0.4409262586850673
+  rhythmicContrast: 0.09225680981762707
+purpose: []
