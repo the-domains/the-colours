@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[The Colours]]></title>
-        <description><![CDATA[The Colours]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[The Colours Band]]></title>
+        <description><![CDATA[The Colours Band]]></description>
+        <link>https://thegrid.ai/the-colours/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 17 Feb 2016 10:47:28 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 24 Feb 2016 14:08:00 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/the-colours/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img alt="The Colours posted this photo on 2016-02-05&period; 2 likes&period; 0 comments&period; 2 shares&period;" src="https://scontent.xx.fbcdn.net/hphotos-xpf1/t31.0-0/p180x540/12657777_582312548590900_9147031261924817750_o.jpg">]]></description>
+            <link>https://www.facebook.com/bandthecolours/photos/a.582311421924346.1073741829.578632852292203/582312548590900/?type=3</link>
+            <guid isPermaLink="false">e8ded8f3-0865-4c10-9433-b680daae9a1b</guid>
+            <pubDate>Wed, 24 Feb 2016 14:07:51 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/423346f0-7a89-4885-ad4b-7ebb00745618.jpg">]]></description>
-            <link>undefined5fcbf99f-f91a-48c8-b988-e6fe9ff4e3f3/index.html</link>
+            <link>https://thegrid.ai/the-colours/5fcbf99f-f91a-48c8-b988-e6fe9ff4e3f3/index.html</link>
             <guid isPermaLink="false">5fcbf99f-f91a-48c8-b988-e6fe9ff4e3f3</guid>
             <pubDate>Wed, 17 Feb 2016 10:47:21 GMT</pubDate>
         </item>
